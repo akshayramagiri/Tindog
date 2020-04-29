@@ -10,4 +10,4 @@ Tindog is the social app for dog lovers who want to connect with other owners ne
 
 # Application
 
-This website is made by using [Atom](https://atom.io/) code editor easy to useand customizable
+This website is made by using [Atom](https://atom.io/) code editor easy to use and customizable
