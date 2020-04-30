@@ -5,7 +5,7 @@ Tindog is the social app for dog lovers who want to connect with other owners ne
 # Built with
 
 * In this website i implemented [Bootstrap](https://getbootstrap.com/) worlds popular front-end component library 
-* And jQuery also used because its a lightweight, "write less, do more".
+* And javascript,jQuery also used because its a lightweight, "write less, do more".
 * And with that HTML and CSS.
 
 # Application
